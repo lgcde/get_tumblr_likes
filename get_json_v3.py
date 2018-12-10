@@ -5,8 +5,8 @@ import os
 import json
 import urllib.parse
 
-PROXIES = { "http": "http://127.0.0.1:1080", "https": "https://127.0.0.1:1080" } 
-# PROXIES = {}
+# PROXIES = { "http": "http://127.0.0.1:1080", "https": "https://127.0.0.1:1080" } 
+PROXIES = {}
 
 consumer_key = 'mqyfWchrSDffLHqst0k9xLCvsI5JaCyTPJG3ZdCLyQJVm0FX2V'  # you can replace it by your api_key
 
