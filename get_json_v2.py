@@ -9,8 +9,8 @@ import json
 import urllib.parse
 from datetime import datetime
 
-PROXIES = { "http": "http://127.0.0.1:1080", "https": "https://127.0.0.1:1080" } 
-# PROXIES = {}
+# PROXIES = { "http": "http://127.0.0.1:1080", "https": "https://127.0.0.1:1080" } 
+PROXIES = {}
 
 # consumer_key = ''
 # consumer_secret = ''
